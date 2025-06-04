@@ -4,11 +4,11 @@
 <!-- /.content -->
 </div>
 <!-- Main Footer -->
-<footer class="main-footer">
-    <strong>Copyright &copy; 2024 <a href="#">PizzaManagerPro</a>.</strong>
-    All rights reserved.
-    <div class="float-right d-none d-sm-inline-block">
-        <b>Version</b> 3.2.0
+<footer class="footer mt-5 text-center bg-dark text-light py-3">
+    <div class="container-fluid">
+        <div class="copyright text-sm">
+            Desarrollado por <a class="text-warning" href="https://juanchehin.github.io/ci/"><b>CI - Sistemas informaticos</b></a> - Tel. +54 9 3816 18-8101
+        </div>
     </div>
 </footer>
 </div>
